@@ -82,7 +82,7 @@ const fetchAllTokenOwners = async (): Promise<void> => {
       }
     });
 
-    const filePathByRange = `${tokenAddress}_onwers.json`;
+    const filePathByRange = `list/${tokenAddress}_onwers.json`;
 
     await fs.writeFile(
       filePathByRange,

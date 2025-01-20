@@ -1,0 +1,18 @@
+{
+  "Range 1M+": [],
+  "Range 500k-1M": [],
+  "Range 100k-499k": [],
+  "Range 50k-99k": [],
+  "Range 11k-49k": ["0x27be19aff47d30d3cedc098e36844a657a8953ae"],
+  "Range 1k-10k": [
+    "0x4073dc5c1dd62942ef8eb63cd8714fadccd5ff95",
+    "0x42a54b7e9435902c8c1b68221bd8486c8ef132bf",
+    "0x76db9c7ffd14dfe3770da0c16ccdac871d6f63d2",
+    "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
+    "0xc26a3cc075eecc89476b06160db19ee637c09fa0",
+    "0xa4e93802ba3d4f79959c776191cade66d4396bc3",
+    "0x33796ff3500d2b71fbe3ec55655d7bfc55b7f7cc",
+    "0x0156a98f1b82045c10cab22a0640f808fe21beea",
+    "0xd3ad72af19df2633e25f1370036a501b21232ed7"
+  ]
+}
