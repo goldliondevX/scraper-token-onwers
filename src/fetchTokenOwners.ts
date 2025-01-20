@@ -31,22 +31,25 @@ const fetchAllTokenOwners = async (): Promise<void> => {
 
     while (hasMore) {
       await sleep(1500);
+      try {
+        const response = await Moralis.EvmApi.token
+          .getTokenOwners({
+            chain,
+            tokenAddress,
+            cursor,
+            order: "DESC",
+          })
+          .then((res) => res.response);
 
-      const response = await Moralis.EvmApi.token
-        .getTokenOwners({
-          chain,
-          tokenAddress,
-          cursor,
-          order: "DESC",
-        })
-        .then((res) => res.response);
-
-      if (response.result.length > 0) {
-        allResults.push(...response.result);
-        console.log(`Fetched ${response.result.length} records...`);
+        if (response.result.length > 0) {
+          allResults.push(...response.result);
+          console.log(`Fetched ${response.result.length} records...`);
+        }
+        cursor = response.cursor ?? ""; // Update the cursor or set to null
+        hasMore = !!cursor;
+      } catch (error) {
+        console.log("Error happening and Retry Cursor:", cursor);
       }
-      cursor = response.cursor ?? ""; // Update the cursor or set to null
-      hasMore = !!cursor;
     }
 
     const categorizedResults: { [key: string]: any[] } = {
