@@ -30,7 +30,7 @@ const fetchAllTokenOwners = async (): Promise<void> => {
     console.log("Fetching token owners...");
 
     while (hasMore) {
-      await sleep(1000);
+      await sleep(1500);
 
       const response = await Moralis.EvmApi.token
         .getTokenOwners({
