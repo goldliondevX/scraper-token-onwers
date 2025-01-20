@@ -1,0 +1,598 @@
+{
+  "Range 1M+": [
+    {
+      "address": "0xbbbbbbbbbb9cc5e90e3b3af64bdaf62c37eeffcb",
+      "usd": 75821756.29606305,
+      "tokenAmount": 721.67895735
+    },
+    {
+      "address": "0xb261266cb30c255cb9c73ebf4a3ead9398d23ab4",
+      "usd": 31354366.00059708,
+      "tokenAmount": 298.43394916
+    },
+    {
+      "address": "0xa44d3bb767d953711ea4bce8c0f01f4d7d299af6",
+      "usd": 23465808.83537562,
+      "tokenAmount": 223.34988374
+    },
+    {
+      "address": "0x5401b8620e5fb570064ca9114fd1e135fd77d57c",
+      "usd": 3043369.31783472,
+      "tokenAmount": 28.96708944
+    },
+    {
+      "address": "0xbbb4080b4d4510ace168d1ff8c5cc256ab74e1fb",
+      "usd": 2435457.733401,
+      "tokenAmount": 23.180927
+    },
+    {
+      "address": "0xc3e037752acdfe133cc391a6a94dc90db84d96df",
+      "usd": 1050630,
+      "tokenAmount": 10
+    }
+  ],
+  "Range 500k-1M": [],
+  "Range 100k-499k": [
+    {
+      "address": "0x3f0d3fd87a42bdaa3dfcc13ada42ea922e638a7a",
+      "usd": 265939.08396972,
+      "tokenAmount": 2.53123444
+    },
+    {
+      "address": "0x852051eff8737dc4633294ad9ff61dcc5b652151",
+      "usd": 210606.97841399998,
+      "tokenAmount": 2.004578
+    },
+    {
+      "address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642",
+      "usd": 205224.69337944,
+      "tokenAmount": 1.95334888
+    },
+    {
+      "address": "0x2146418e89296074af40cd4ea7d90fc257ac3f67",
+      "usd": 105289.37399295,
+      "tokenAmount": 1.00215465
+    },
+    {
+      "address": "0x4e2d90f0307a93b54aca31dc606f93fe6b9132d2",
+      "usd": 101991.39284082,
+      "tokenAmount": 0.97076414
+    }
+  ],
+  "Range 50k-99k": [
+    {
+      "address": "0xf81ed26699f13cd2d93b9b79d2efcef6e5dbf745",
+      "usd": 82697.58254625,
+      "tokenAmount": 0.78712375
+    }
+  ],
+  "Range 11k-49k": [
+    {
+      "address": "0xd415d2f890bff9b238aa4fc893f6a254f06cb4d9",
+      "usd": 31518.899999999998,
+      "tokenAmount": 0.3
+    },
+    {
+      "address": "0x620e3825d9bbfd08ca16839517cc1a01dfb33755",
+      "usd": 20854.29212223,
+      "tokenAmount": 0.19849321
+    },
+    {
+      "address": "0x951e90c02409f4b153c22b1fe3cb8a826b7379cf",
+      "usd": 13658.19,
+      "tokenAmount": 0.13
+    }
+  ],
+  "Range 1k-10k": [
+    {
+      "address": "0x1e2b7b3fe8509e5d29503ddaead249eeca45a6ed",
+      "usd": 9176.69306421,
+      "tokenAmount": 0.08734467
+    },
+    {
+      "address": "0x6310c1f4ac20cc021d7730e2d1907001be423a4c",
+      "usd": 8754.059286,
+      "tokenAmount": 0.083322
+    },
+    {
+      "address": "0x1fb2f7ce91391f24659ad86e9a8c3ce8bffb3ef6",
+      "usd": 8405.04,
+      "tokenAmount": 0.08
+    },
+    {
+      "address": "0x460c47fc3fa8c833e22803abf19bf199433f4fde",
+      "usd": 7879.6199369999995,
+      "tokenAmount": 0.074999
+    },
+    {
+      "address": "0x5a46d25848952d0be5d12ac6443fc1be975d8d4d",
+      "usd": 7768.358220000001,
+      "tokenAmount": 0.07394
+    },
+    {
+      "address": "0xb67e6b9d87b03bfd21c5fae7f7fb7d2dc8050d00",
+      "usd": 7462.065954840001,
+      "tokenAmount": 0.07102468
+    },
+    {
+      "address": "0x1b35fcb58f5e1e2a42ff8e66ddf5646966abf08c",
+      "usd": 6718.46786352,
+      "tokenAmount": 0.06394704
+    },
+    {
+      "address": "0x71c17e068aa0fb0ed0e8587647812440665f84ff",
+      "usd": 6473.351682,
+      "tokenAmount": 0.061614
+    },
+    {
+      "address": "0xea26017303fa3eb45cbfbe3472a56559a38a401c",
+      "usd": 6026.04701013,
+      "tokenAmount": 0.05735651
+    },
+    {
+      "address": "0xe8a6b24dac4f364af18f429fd6af978f2811b871",
+      "usd": 5568.24024078,
+      "tokenAmount": 0.05299906
+    },
+    {
+      "address": "0xd05d008a14297fdc004e241c4f4c673b61dabb5f",
+      "usd": 5360.944638,
+      "tokenAmount": 0.051026
+    },
+    {
+      "address": "0x4a24973abd758bcb81955a39c60f9b8bc404deba",
+      "usd": 5253.150000000001,
+      "tokenAmount": 0.05
+    },
+    {
+      "address": "0x02058c65a69f14841ec7ca2711f00292adf1fd7b",
+      "usd": 5253.150000000001,
+      "tokenAmount": 0.05
+    },
+    {
+      "address": "0x12bea9604f0ee6331dd86dff2e6569dff79e0f92",
+      "usd": 4738.551426,
+      "tokenAmount": 0.045102
+    },
+    {
+      "address": "0xf1653323d095392caa4f8787943d84b4690c5e41",
+      "usd": 4727.835,
+      "tokenAmount": 0.045
+    },
+    {
+      "address": "0x6595a41a2ebe230522076c544fb2de11a6666226",
+      "usd": 4624.76294385,
+      "tokenAmount": 0.04401895
+    },
+    {
+      "address": "0x6a780c771281322c8e0bbab55b935c1bb70f66ec",
+      "usd": 4562.88609,
+      "tokenAmount": 0.04343
+    },
+    {
+      "address": "0x1772d25b9889782c2fa5db2a79ed710df3c14183",
+      "usd": 4537.93467813,
+      "tokenAmount": 0.04319251
+    },
+    {
+      "address": "0xd75e2e4c4196d90d283b9addc73281e1865cd9c7",
+      "usd": 3881.1322830000004,
+      "tokenAmount": 0.036941
+    },
+    {
+      "address": "0xfc88e456b3a5620e63a449ce429dccf2687cac26",
+      "usd": 3541.16522508,
+      "tokenAmount": 0.03370516
+    },
+    {
+      "address": "0xf9b9ceb7680d269818d3bc5fa5cae9a14981e008",
+      "usd": 3471.911898,
+      "tokenAmount": 0.033046
+    },
+    {
+      "address": "0x076ed4502762aa6c4809a25651b0a150494f69dc",
+      "usd": 3377.98977852,
+      "tokenAmount": 0.03215204
+    },
+    {
+      "address": "0x8d7e74cec19a0e0319a5a7be070fb67d18157e00",
+      "usd": 3316.4186579999996,
+      "tokenAmount": 0.031566
+    },
+    {
+      "address": "0x8e3e62e2229f49ab0a4f5028d05840bb89e20378",
+      "usd": 3294.32075721,
+      "tokenAmount": 0.03135567
+    },
+    {
+      "address": "0xff16e03168605c2c922779cfc9b35c70f152d3eb",
+      "usd": 3194.0412756,
+      "tokenAmount": 0.0304012
+    },
+    {
+      "address": "0xd0e72c1b2eb87e3dc0445b7f689cadcfc872b293",
+      "usd": 3101.90312586,
+      "tokenAmount": 0.02952422
+    },
+    {
+      "address": "0x5a09edfcc6f4aa80ef9c996521b1a33650bf4c81",
+      "usd": 2626.41530424,
+      "tokenAmount": 0.02499848
+    },
+    {
+      "address": "0x679ca3ac3782367c6513e8af8f876ea85cb37823",
+      "usd": 2565.0952842899997,
+      "tokenAmount": 0.02441483
+    },
+    {
+      "address": "0xb36f8628284638dfa103a8c2f426fdde289a4251",
+      "usd": 2547.882813,
+      "tokenAmount": 0.024251
+    },
+    {
+      "address": "0x918d7ee3ca59284fab6ba4edcb5d4407fdcb9bf2",
+      "usd": 2468.9805,
+      "tokenAmount": 0.0235
+    },
+    {
+      "address": "0x93574333f9ac1882108b171eeac08dcda0caf1a6",
+      "usd": 2441.874246,
+      "tokenAmount": 0.023242
+    },
+    {
+      "address": "0x6e23afc534006a72a4b363b2d4a869bb3fb223b3",
+      "usd": 2433.17292834,
+      "tokenAmount": 0.02315918
+    },
+    {
+      "address": "0x682f49fc67784bc514791bcf075b0d7ce89da3f8",
+      "usd": 2289.953148,
+      "tokenAmount": 0.021796
+    },
+    {
+      "address": "0x04951322d576126b6befae150c4bb506c7b1dac6",
+      "usd": 2223.658395,
+      "tokenAmount": 0.021165
+    },
+    {
+      "address": "0x19d948cf2985545e3ec0e4e1ecbc03fb12fbe464",
+      "usd": 2180.477502,
+      "tokenAmount": 0.020754
+    },
+    {
+      "address": "0xd6e74ae88f9d375a4870c9116753542090179280",
+      "usd": 2115.1052021399996,
+      "tokenAmount": 0.02013178
+    },
+    {
+      "address": "0x277effae0451d72aa4cdde895426f44f12c13fb0",
+      "usd": 2082.979038,
+      "tokenAmount": 0.019826
+    },
+    {
+      "address": "0x30428a743e2a2f8d1c3fea017e0d76440435fa8d",
+      "usd": 2061.651249,
+      "tokenAmount": 0.019623
+    },
+    {
+      "address": "0x207444f9ea95290cecfda0934ac03327ac0f4245",
+      "usd": 1986.2632933500001,
+      "tokenAmount": 0.01890545
+    },
+    {
+      "address": "0xfc414daf238a3cbea641f9eed8959ca6adaee3fd",
+      "usd": 1963.837596,
+      "tokenAmount": 0.018692
+    },
+    {
+      "address": "0x8fa836f12d6e19a570f78b7488146a479696cec4",
+      "usd": 1917.02887761,
+      "tokenAmount": 0.01824647
+    },
+    {
+      "address": "0xf7d84d15229bad04326cd71ec195a94d95f95e9d",
+      "usd": 1815.1734510000001,
+      "tokenAmount": 0.017277
+    },
+    {
+      "address": "0x974ca09a68095625738ce3a7c3e183136b936a6f",
+      "usd": 1806.03297,
+      "tokenAmount": 0.01719
+    },
+    {
+      "address": "0xd27905d8cbcfc1544aeca4e0620703bb05460245",
+      "usd": 1759.91136363,
+      "tokenAmount": 0.01675101
+    },
+    {
+      "address": "0x80e75ed9062779560831c7808067bc0c673b17a5",
+      "usd": 1729.547106,
+      "tokenAmount": 0.016462
+    },
+    {
+      "address": "0x8935d3183d19b4f88bed80545f282124ba016b04",
+      "usd": 1701.0844886700002,
+      "tokenAmount": 0.01619109
+    },
+    {
+      "address": "0xe0a8521c9a456587b274106a63ecaf9faf347016",
+      "usd": 1652.115675,
+      "tokenAmount": 0.015725
+    },
+    {
+      "address": "0x0f85bc7cbfa182f969643537accde85fd3104ab0",
+      "usd": 1594.04000049,
+      "tokenAmount": 0.01517223
+    },
+    {
+      "address": "0x3e85fe5eea473ef8e0c4e6927c5d2237fb3cab2c",
+      "usd": 1486.956639,
+      "tokenAmount": 0.014153
+    },
+    {
+      "address": "0xd94ba27fefaa5d995edd80962253e02eeec325e0",
+      "usd": 1483.069308,
+      "tokenAmount": 0.014116
+    },
+    {
+      "address": "0x32617e69ac65280e574896345225354e1894e7a8",
+      "usd": 1474.8891028199998,
+      "tokenAmount": 0.01403814
+    },
+    {
+      "address": "0x1e25c2827c34616e20aaf67e71a0b47bdbcaffa9",
+      "usd": 1405.13252397,
+      "tokenAmount": 0.01337419
+    },
+    {
+      "address": "0xec7929dcbb91793596fdded022307f1627fc9017",
+      "usd": 1379.4771899999998,
+      "tokenAmount": 0.01313
+    },
+    {
+      "address": "0x8f2ca1c48e99d4a23e9595fc734ef9f1ac41ab8f",
+      "usd": 1368.7607639999999,
+      "tokenAmount": 0.013028
+    },
+    {
+      "address": "0x30924e26e0a5ead0eb9eeb60cfcfe63ddcc70e3a",
+      "usd": 1365.14239428,
+      "tokenAmount": 0.01299356
+    },
+    {
+      "address": "0x1b5bd4ed671c2e0ae70d3971b5a73dc51bdddb0b",
+      "usd": 1345.9326753599998,
+      "tokenAmount": 0.01281072
+    },
+    {
+      "address": "0x4ddeba3cb70e38dee2f22071da5f71770d1ecef2",
+      "usd": 1329.0364437,
+      "tokenAmount": 0.0126499
+    },
+    {
+      "address": "0xe7985c511d1bf0c7668757650b974513628dea7c",
+      "usd": 1313.2875000000001,
+      "tokenAmount": 0.0125
+    },
+    {
+      "address": "0x31f20363d79a175d1c926d613aec8d9822d50eef",
+      "usd": 1298.3633008499999,
+      "tokenAmount": 0.01235795
+    },
+    {
+      "address": "0x69155e7ca2e688ccdc247f6c4ddf374b3ae77bd6",
+      "usd": 1297.41037944,
+      "tokenAmount": 0.01234888
+    },
+    {
+      "address": "0x4496b5b8bc89b513e28af5e85eb24b9f666bdc9f",
+      "usd": 1281.5584740000002,
+      "tokenAmount": 0.012198
+    },
+    {
+      "address": "0xf585d534acfd38a5ca10dbe790a8b1c43bf2708b",
+      "usd": 1260.8631642599998,
+      "tokenAmount": 0.01200102
+    },
+    {
+      "address": "0x2478c895d589c86f8a3b4166bf50532250449c47",
+      "usd": 1241.319345,
+      "tokenAmount": 0.011815
+    },
+    {
+      "address": "0x2aa92eb0024e3f54c35df1b1d6879631241222f2",
+      "usd": 1220.411808,
+      "tokenAmount": 0.011616
+    },
+    {
+      "address": "0x37ac013af9ddee0b5563244bbcc2386a58c070fc",
+      "usd": 1188.74476917,
+      "tokenAmount": 0.01131459
+    },
+    {
+      "address": "0x214528e34f0cea0987b968179d1b23722af11622",
+      "usd": 1185.2157029999998,
+      "tokenAmount": 0.011281
+    },
+    {
+      "address": "0x79f57cff524cfa34d379fd5e00d4da350ea1a970",
+      "usd": 1157.2479324,
+      "tokenAmount": 0.0110148
+    },
+    {
+      "address": "0x6ce7bcc63fe71e6aeb65e8ba2e6a852156f3f4f2",
+      "usd": 1150.5449130000002,
+      "tokenAmount": 0.010951
+    },
+    {
+      "address": "0x8a1bdd5d6c7c42bc52edfca1eb445b9ed99415b9",
+      "usd": 1138.88292,
+      "tokenAmount": 0.01084
+    },
+    {
+      "address": "0x3a845f698d5b4d0311489f41a54ec2611cec72dc",
+      "usd": 1138.8093758999998,
+      "tokenAmount": 0.0108393
+    },
+    {
+      "address": "0xe3c41ff31e3a2f401bbdec9a188069f89c4ad785",
+      "usd": 1129.532313,
+      "tokenAmount": 0.010751
+    },
+    {
+      "address": "0x680a6114dd343556dbd3fa564f790e2d14b45d5f",
+      "usd": 1126.8742191,
+      "tokenAmount": 0.0107257
+    },
+    {
+      "address": "0x3eed9cb1fa83202cb1be1f2fc664888ea8b136c1",
+      "usd": 1125.2247300000001,
+      "tokenAmount": 0.01071
+    },
+    {
+      "address": "0xba7da6ecb57cf8e4b9b918a39dc795f84069bc12",
+      "usd": 1123.17705213,
+      "tokenAmount": 0.01069051
+    },
+    {
+      "address": "0xf67336e671f1588d71c8f1e50a79c2715717e07a",
+      "usd": 1117.6097637599999,
+      "tokenAmount": 0.01063752
+    },
+    {
+      "address": "0x02fa7a777f9ed1ccaf12762d1e0e07252c35df2f",
+      "usd": 1113.9829889999999,
+      "tokenAmount": 0.010603
+    },
+    {
+      "address": "0x93ed3d7da01efd0220f0a1e336ff9625de648c81",
+      "usd": 1104.107067,
+      "tokenAmount": 0.010509
+    },
+    {
+      "address": "0x85a60d95a20e8d73c181e01c98e71d1d0d30f175",
+      "usd": 1102.215933,
+      "tokenAmount": 0.010491
+    },
+    {
+      "address": "0x91b5753efce135b4dd16304b9a49b51bb48ddb11",
+      "usd": 1095.67996377,
+      "tokenAmount": 0.01042879
+    },
+    {
+      "address": "0x4a118ed231eac5726121efc35c52e7417b240b19",
+      "usd": 1088.10071895,
+      "tokenAmount": 0.01035665
+    },
+    {
+      "address": "0x179431d2b2f53864f923bf381cebc46adab813ac",
+      "usd": 1087.2969870000002,
+      "tokenAmount": 0.010349
+    },
+    {
+      "address": "0xbdc338f3ca019e6db3818d04d21660f685bb80e8",
+      "usd": 1084.7649687,
+      "tokenAmount": 0.0103249
+    },
+    {
+      "address": "0xef5a34c9fd92cb47b4bde428788ec3644c9c171e",
+      "usd": 1081.938774,
+      "tokenAmount": 0.010298
+    },
+    {
+      "address": "0xd080f1b95004343350e4a7f71fb233e0cbab8ae8",
+      "usd": 1075.1096790000001,
+      "tokenAmount": 0.010233
+    },
+    {
+      "address": "0x127b0273f46ce6dc6a472db1d229f404d6636223",
+      "usd": 1061.346426,
+      "tokenAmount": 0.010102
+    },
+    {
+      "address": "0xd76f27385b9e3c4dac9b7d209674c13ebb310623",
+      "usd": 1060.610985,
+      "tokenAmount": 0.010095
+    },
+    {
+      "address": "0x41d7cdf773111c821bc412b6f99467241fa364d8",
+      "usd": 1059.560355,
+      "tokenAmount": 0.010085
+    },
+    {
+      "address": "0xfe771986237eeb6dd6baa1ce63e653c71d25ef18",
+      "usd": 1059.03504,
+      "tokenAmount": 0.01008
+    },
+    {
+      "address": "0x44517e6cc2e1f02c07b10f4fe09e7a4266f9bc82",
+      "usd": 1056.093276,
+      "tokenAmount": 0.010052
+    },
+    {
+      "address": "0x943782dd74eb68bae4bcde7b96ddd5161fa62f20",
+      "usd": 1055.9882129999999,
+      "tokenAmount": 0.010051
+    },
+    {
+      "address": "0xd6e58c1430440f4afd28a54b7bd53d58597f9c3e",
+      "usd": 1052.100882,
+      "tokenAmount": 0.010014
+    },
+    {
+      "address": "0x8eefc94f8c151bccbbe11191bad58e37fc15ca15",
+      "usd": 1051.470504,
+      "tokenAmount": 0.010008
+    },
+    {
+      "address": "0xdf6cb51ca00ef1645f7e04a5b5d5f6cad3a55e02",
+      "usd": 1050.840126,
+      "tokenAmount": 0.010002
+    },
+    {
+      "address": "0xe560a31803b8aa6e4940eed8f7d67a78f127ad08",
+      "usd": 1050.63,
+      "tokenAmount": 0.01
+    },
+    {
+      "address": "0x35a9425d2f8786720a785e71b2755ddbd74b7f44",
+      "usd": 1050.63,
+      "tokenAmount": 0.01
+    },
+    {
+      "address": "0x3036faf34f032b841248a38a83e767d892a35baa",
+      "usd": 1050.63,
+      "tokenAmount": 0.01
+    },
+    {
+      "address": "0x2ddc8fde6153eb35b827f16196e11cbd6bd5e6a7",
+      "usd": 1045.166724,
+      "tokenAmount": 0.009948
+    },
+    {
+      "address": "0x0395ac5e814d57ce618f32777c5a5db498b48f56",
+      "usd": 1041.909771,
+      "tokenAmount": 0.009917
+    },
+    {
+      "address": "0x4e356ff329ce7684a9b289f8bbbf1dbbee9158e2",
+      "usd": 1039.808511,
+      "tokenAmount": 0.009897
+    },
+    {
+      "address": "0x65381c81518372649684627a7f17728571d611bb",
+      "usd": 1037.24182191,
+      "tokenAmount": 0.00987257
+    },
+    {
+      "address": "0x1f17b5c546f7ad1de4ae417f0a4c87913a09e772",
+      "usd": 1019.3359348199999,
+      "tokenAmount": 0.00970214
+    },
+    {
+      "address": "0x60de5a61f1ca0204209dc599e941c9e12b49f039",
+      "usd": 1002.9313980000001,
+      "tokenAmount": 0.009546
+    }
+  ]
+}

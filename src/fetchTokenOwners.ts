@@ -7,8 +7,9 @@ dotenv.config();
 const apiKey = process.env.MORALIS_API_KEY as string;
 const chain = process.env.CHAIN_ID as string;
 const tokenAddress = process.env.TOKEN_ADDRESS as string;
+const tokenPrice = process.env.TOKEN_PRICE as string;
 
-if (!apiKey || !chain || !tokenAddress) {
+if (!apiKey || !chain || !tokenAddress || !tokenPrice) {
   console.error(
     "Missing required environment variables. Check your .env file."
   );
@@ -29,7 +30,7 @@ const fetchAllTokenOwners = async (): Promise<void> => {
     console.log("Fetching token owners...");
 
     while (hasMore) {
-      await sleep(2000);
+      await sleep(1000);
 
       const response = await Moralis.EvmApi.token
         .getTokenOwners({
@@ -60,7 +61,7 @@ const fetchAllTokenOwners = async (): Promise<void> => {
 
     allResults.forEach((owner) => {
       const value = parseFloat(owner.balanceFormatted);
-      const usd_value = parseFloat(owner.usdValue);
+      const usd_value = value * parseFloat(tokenPrice);
       const address = owner.ownerAddress;
 
       const result = { address, usd: usd_value, tokenAmount: value };
