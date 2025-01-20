@@ -64,7 +64,9 @@ const fetchAllTokenOwners = async (): Promise<void> => {
       const usd_value = value * parseFloat(tokenPrice);
       const address = owner.ownerAddress;
 
-      const result = { address, usd: usd_value, tokenAmount: value };
+      // const result = { address, usd: usd_value, tokenAmount: value };
+      const result = address;
+
       if (usd_value > 1000000) {
         categorizedResults["Range 1M+"].push(result);
       } else if (usd_value >= 500000 && usd_value <= 1000000) {
